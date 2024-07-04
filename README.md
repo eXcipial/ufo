@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: [(https://excipial.github.io/ufo/)]
 
-Design: [UFO](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI/attachments/9352426?mode=media)
+Design: [UFO][(https://imgur.com/a/xAsu57n)]
 
 ## 🎯 Project features/goals
 
