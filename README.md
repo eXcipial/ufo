@@ -59,7 +59,7 @@ Would like to run this project locally? Open terminal and follow these steps:
     npm run dev
     ```
 
-Works best on 1080x960 resolution
+
 ### 🧪 Running tests
 
 There is no tests for this project.
