@@ -3,26 +3,24 @@ body {
     background-size: cover;}
 main {
     background-color: white;
-    width: 60%; 
+    width: 1200px; 
     margin-top: 8%; 
-    margin-left: 20%; 
-    margin-right: 20%; 
+    margin-left: calc((100% - 1200px) / 2); 
     margin-bottom: 7%; 
     display:inline-block; 
     border-radius: 20px;}
 div {
     float: left;}
 main > div:nth-child(1) {
-    width: 10%; 
+    width: 260px; 
     margin-top: 10%; 
-    margin-left: 33%; 
+    margin-left: calc((100% - 260px - 480px) / 2); 
     margin-bottom: 10%;}
 main > div:nth-child(2) {
-    width: 15%;
+    width: 400px;
     margin-top: 10%; 
-    margin-right: 10%; 
-    margin-bottom: 10%;
-    margin-left: 5%;}
+    margin-left: 100px; 
+    margin-bottom: 10%;}
 a {
     border-radius: 30px; 
     border-color: #269CEF; 
